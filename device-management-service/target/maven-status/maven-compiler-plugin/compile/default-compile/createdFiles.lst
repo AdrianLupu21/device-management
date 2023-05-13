@@ -1,0 +1,12 @@
+com/smartmug/device/management/controller/DeviceManagementController.class
+com/smartmug/device/management/dao/ResourceDAO.class
+com/smartmug/device/management/repository/DeviceRepository.class
+com/smartmug/device/management/entity/DeviceGroup.class
+com/smartmug/device/management/repository/DeviceGroupRepository.class
+com/smartmug/device/management/repository/ResourcesRepository.class
+com/smartmug/device/management/DeviceManagementApplication.class
+com/smartmug/device/management/entity/Resources.class
+com/smartmug/device/management/dao/DeviceDAO.class
+com/smartmug/device/management/entity/Device.class
+com/smartmug/device/management/dao/DeviceGroupDAO.class
+com/smartmug/device/management/DeviceManagementApplication$1.class

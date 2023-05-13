@@ -1,0 +1,36 @@
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: "DEBUG"
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    url: 'jdbc:postgresql://localhost:5432/DEVICE_MANAGEMENT'
+    password: postgres
+  rabbitmq:
+    host: "localhost"
+    port: 5672
+    username: "guest"
+    password: "guest"
+    exchange: "my_exchange"
+    routing-key: "routing-key"
+keycloak:
+  auth-server-url: 'http://85.204.43.222:4200/auth'
+  credentials:
+    secret: ec86d65e-bdf7-41c9-8908-8cf863f9913e
+  realm: test
+  resource: maxcup
+  ssl-required: none
+  bearer-only: true
+  use-resource-role-mappings: true
+  cors: true
+server:
+  port: '8093'
+  address: '0.0.0.0'
+connector:
+  resource: 'admin-cli'
+  credentials:
+    secret: '71cb4b28-b6b7-44b7-b36e-3cf394f15042'
+

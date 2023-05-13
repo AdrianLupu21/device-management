@@ -1,0 +1,6 @@
+com/smartmug/device/management/client/error/DeviceManagementClientError.class
+com/smartmug/device/management/client/impl/Authenticator.class
+com/smartmug/device/management/client/error/DeviceManagementClientError$DeviceManagementClientException.class
+com/smartmug/device/management/client/impl/DeviceManagementClientFactory.class
+com/smartmug/device/management/client/impl/DeviceManagementClientImpl.class
+com/smartmug/device/management/client/spi/DeviceManagementClient.class

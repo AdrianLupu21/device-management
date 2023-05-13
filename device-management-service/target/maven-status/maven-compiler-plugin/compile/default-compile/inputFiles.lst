@@ -1,0 +1,16 @@
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/repository/ResourcesRepository.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/dao/DeviceDAO.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/DeviceManagementApplication.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/entity/Device.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/controller/DeviceManagementController.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/entity/DeviceGroup.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/processor/spi/DeviceManagerProcessor.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/dao/DeviceGroupDAO.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/entity/Resources.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/processor/DeviceManagementProcessorImpl.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/error/DeviceManagementError.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/repository/DeviceRepository.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/repository/DeviceGroupRepository.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/controller/DeviceManagementExceptionMapper.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/dao/ResourceDAO.java
+/Users/adrianlupu/Downloads/device-management/device-management-service/src/main/java/com/smartmug/device/management/error/DeviceManagementErrorCode.java
